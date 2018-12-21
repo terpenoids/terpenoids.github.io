@@ -5,8 +5,14 @@
     <lastmod>2018-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://terpenoids.github.io/poetry.html</loc>
+    <lastmod>2018-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://terpenoids.github.io/images/54cd664be383caa724e7bf2170118acc.jpg</image:loc>
+      <image:loc>http://terpenoids.github.io/images/istockphoto-165493831-612x612%20-%20copy.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
