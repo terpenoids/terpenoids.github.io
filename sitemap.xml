@@ -9,9 +9,6 @@
       <image:loc>http://terpenoids.github.io/images/tree.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://terpenoids.github.io/images/man.gif</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://terpenoids.github.io/images/jingshenqi.gif</image:loc>
     </image:image>
     <image:image>
@@ -29,27 +26,78 @@
     <image:image>
       <image:loc>http://terpenoids.github.io/images/flowapowah.gif</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://terpenoids.github.io/poetry.html</loc>
-    <lastmod>2018-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://terpenoids.github.io/images/ebuatofl.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://terpenoids.github.io/images/ebuatofl_2x.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://terpenoids.github.io/images/vanishman.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://terpenoids.github.io/images/vanishman_2x.gif</image:loc>
+      <image:loc>http://terpenoids.github.io/images/tree_taoist%20croped.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://terpenoids.github.io/product.html</loc>
+    <lastmod>2018-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/starwestlogo.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/starwestlogo_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/nature-soil.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/nature-soil_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/fgorganiclogo-crop-u1103.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/fgorganiclogo-crop-u1103_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/frlogo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/frlogo_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/og-crop-u1006.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/og-crop-u1006_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/blackpepper-crop-u1042.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/blackpepper-crop-u1042_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/lavender-crop-u1015.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/sage.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/sage_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/peppermint.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/worshar.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/worshar_2x.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://terpenoids.github.io/gallery.html</loc>
+    <lastmod>2018-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://terpenoids.github.io/research.html</loc>
     <lastmod>2018-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

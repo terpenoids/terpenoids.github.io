@@ -1,23 +1,21 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="terpenoids.github.io" resolutions="1x,2x" timestamp="1545494627237">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="terpenoids.github.io" resolutions="1x,2x" timestamp="1545507946940">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="410280085" ref="index"/>
-    <file name="poetry.css" crc="3941778389" ref="poetry"/>
-    <file name="product.css" crc="40792490" ref="product"/>
+    <file name="index.css" crc="524129674" ref="index"/>
+    <file name="product.css" crc="4129794100" ref="product"/>
+    <file name="gallery.css" crc="228056339" ref="gallery"/>
+    <file name="research.css" crc="4171040216" ref="research"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:poetry:product"/>
-    <file name="museutils.js" crc="340535759" ref="index:poetry:product"/>
-    <file name="whatinput.js" crc="86476730" ref="index:poetry:product"/>
-    <file name="museconfig.js" crc="310584261" ref="index:poetry:product"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:poetry:product"/>
-    <file name="require.js" crc="7928878" ref="index:poetry:product"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:product:gallery:research"/>
+    <file name="museutils.js" crc="340535759" ref="index:product:gallery:research"/>
+    <file name="whatinput.js" crc="86476730" ref="index:product:gallery:research"/>
+    <file name="museconfig.js" crc="310584261" ref="index:product:gallery:research"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:product:gallery:research"/>
+    <file name="require.js" crc="7928878" ref="index:product:gallery:research"/>
   </folder>
   <folder name="images">
     <file name="tree.gif" crc="362732700" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="man.gif" crc="4271633885" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="jingshenqi.gif" crc="4144968640" seo="true" ref="index">
@@ -38,23 +36,70 @@
     <file name="flowapowah.gif" crc="312795120" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ebuatofl.gif" crc="3800976163" seo="true" ref="poetry">
-      <caption webpage="poetry" alt=""/>
+    <file name="pic.png" crc="3999433161" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+      <caption webpage="product" alt=""/>
     </file>
-    <file name="ebuatofl_2x.gif" crc="3800976163" seo="true" ref="poetry">
-      <caption webpage="poetry" alt=""/>
+    <file name="tree_taoist croped.png" crc="3890222" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="vanishman.gif" crc="3798114458" seo="true" ref="poetry">
-      <caption webpage="poetry" alt=""/>
+    <file name="starwestlogo.gif" crc="73311957" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
     </file>
-    <file name="vanishman_2x.gif" crc="3798114458" seo="true" ref="poetry">
-      <caption webpage="poetry" alt=""/>
+    <file name="starwestlogo_2x.gif" crc="73311957" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
     </file>
-    <file name="pic.png" crc="3999433161" seo="true" ref="product">
+    <file name="nature-soil.png" crc="396787994" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="nature-soil_2x.png" crc="4039621027" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="fgorganiclogo-crop-u1103.png" crc="394348280" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="fgorganiclogo-crop-u1103_2x.png" crc="4065120672" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="frlogo.jpg" crc="277812578" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="frlogo_2x.jpg" crc="3945155496" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="og-crop-u1006.png" crc="29021184" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="og-crop-u1006_2x.png" crc="3787242713" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="blackpepper-crop-u1042.png" crc="3803263147" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="blackpepper-crop-u1042_2x.png" crc="383368575" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="lavender-crop-u1015.png" crc="3760665137" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="sage.gif" crc="420095698" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="sage_2x.gif" crc="420095698" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="peppermint.gif" crc="74329185" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="worshar.gif" crc="4059724451" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="worshar_2x.gif" crc="4059724451" seo="true" ref="product">
       <caption webpage="product" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4048394943" seo="true" mt="1545492894763" redirect="true"/>
-  <file name="poetry.html" crc="323611169" seo="true" mt="1545493486222" redirect="true"/>
-  <file name="product.html" crc="4076347497" seo="true" mt="1545494592766" redirect="true"/>
+  <file name="index.html" crc="236528736" seo="true" mt="1545499266690" redirect="true"/>
+  <file name="product.html" crc="3804712507" seo="true" mt="1545507043462" redirect="true"/>
+  <file name="gallery.html" crc="4130640002" seo="true" mt="1545507872974" redirect="true"/>
+  <file name="research.html" crc="4131951769" seo="true" mt="1545503727485" redirect="true"/>
 </manifest>
