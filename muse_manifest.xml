@@ -1,22 +1,60 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="terpenoids.github.io" resolutions="1x" timestamp="1545428384038">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="terpenoids.github.io" resolutions="1x,2x" timestamp="1545494627237">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="31056295" ref="index"/>
-    <file name="poetry.css" crc="15094988" ref="poetry"/>
+    <file name="index.css" crc="410280085" ref="index"/>
+    <file name="poetry.css" crc="3941778389" ref="poetry"/>
+    <file name="product.css" crc="40792490" ref="product"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:poetry"/>
-    <file name="museutils.js" crc="340535759" ref="index:poetry"/>
-    <file name="whatinput.js" crc="86476730" ref="index:poetry"/>
-    <file name="museconfig.js" crc="310584261" ref="index:poetry"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:poetry"/>
-    <file name="require.js" crc="7928878" ref="index:poetry"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:poetry:product"/>
+    <file name="museutils.js" crc="340535759" ref="index:poetry:product"/>
+    <file name="whatinput.js" crc="86476730" ref="index:poetry:product"/>
+    <file name="museconfig.js" crc="310584261" ref="index:poetry:product"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:poetry:product"/>
+    <file name="require.js" crc="7928878" ref="index:poetry:product"/>
   </folder>
   <folder name="images">
-    <file name="istockphoto-165493831-612x612 - copy.jpg" crc="4056195019" seo="true" ref="poetry">
+    <file name="tree.gif" crc="362732700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="man.gif" crc="4271633885" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jingshenqi.gif" crc="4144968640" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jingshenqi_2x.gif" crc="4144968640" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nigawaht.gif" crc="532282861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nigawaht_2x.gif" crc="532282861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fruitman.gif" crc="404961146" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flowapowah.gif" crc="312795120" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ebuatofl.gif" crc="3800976163" seo="true" ref="poetry">
       <caption webpage="poetry" alt=""/>
     </file>
+    <file name="ebuatofl_2x.gif" crc="3800976163" seo="true" ref="poetry">
+      <caption webpage="poetry" alt=""/>
+    </file>
+    <file name="vanishman.gif" crc="3798114458" seo="true" ref="poetry">
+      <caption webpage="poetry" alt=""/>
+    </file>
+    <file name="vanishman_2x.gif" crc="3798114458" seo="true" ref="poetry">
+      <caption webpage="poetry" alt=""/>
+    </file>
+    <file name="pic.png" crc="3999433161" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="229091518" seo="true" mt="1545427830751" redirect="true"/>
-  <file name="poetry.html" crc="3965195090" seo="true" mt="1545427915859" redirect="true"/>
+  <file name="index.html" crc="4048394943" seo="true" mt="1545492894763" redirect="true"/>
+  <file name="poetry.html" crc="323611169" seo="true" mt="1545493486222" redirect="true"/>
+  <file name="product.html" crc="4076347497" seo="true" mt="1545494592766" redirect="true"/>
 </manifest>
