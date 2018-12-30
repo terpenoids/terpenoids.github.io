@@ -1,21 +1,27 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="terpenoids.github.io" resolutions="1x,2x" timestamp="1545507946940">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="terpenoids.github.io" resolutions="1x,2x" timestamp="1546206063551">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="524129674" ref="index"/>
-    <file name="product.css" crc="4129794100" ref="product"/>
-    <file name="gallery.css" crc="228056339" ref="gallery"/>
-    <file name="research.css" crc="4171040216" ref="research"/>
+    <file name="index.css" crc="4144361906" ref="index"/>
+    <file name="product.css" crc="286160580" ref="product"/>
+    <file name="research.css" crc="498508185" ref="research"/>
+    <file name="gallery.css" crc="3949383436" ref="gallery"/>
+    <file name="usage.css" crc="464506800" ref="usage"/>
+    <file name="ecology.css" crc="4268348159" ref="ecology"/>
+    <file name="r_q.css" crc="473780302" ref="r.q"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:product:gallery:research"/>
-    <file name="museutils.js" crc="340535759" ref="index:product:gallery:research"/>
-    <file name="whatinput.js" crc="86476730" ref="index:product:gallery:research"/>
-    <file name="museconfig.js" crc="310584261" ref="index:product:gallery:research"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:product:gallery:research"/>
-    <file name="require.js" crc="7928878" ref="index:product:gallery:research"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:gallery:research:product:usage:r.q:ecology"/>
+    <file name="museutils.js" crc="340535759" ref="index:gallery:research:product:usage:r.q:ecology"/>
+    <file name="whatinput.js" crc="86476730" ref="index:gallery:research:product:usage:r.q:ecology"/>
+    <file name="museconfig.js" crc="310584261" ref="index:gallery:research:product:usage:r.q:ecology"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:gallery:research:product:usage:r.q:ecology"/>
+    <file name="require.js" crc="7928878" ref="index:gallery:research:product:usage:r.q:ecology"/>
   </folder>
   <folder name="images">
     <file name="tree.gif" crc="362732700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tree_taoist croped.png" crc="3890222" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="jingshenqi.gif" crc="4144968640" seo="true" ref="index">
@@ -36,12 +42,8 @@
     <file name="flowapowah.gif" crc="312795120" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic.png" crc="3999433161" seo="true" ref="research">
+    <file name="pic - copy.png" crc="323746163" seo="true" ref="research">
       <caption webpage="research" alt=""/>
-      <caption webpage="product" alt=""/>
-    </file>
-    <file name="tree_taoist croped.png" crc="3890222" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
     </file>
     <file name="starwestlogo.gif" crc="73311957" seo="true" ref="product">
       <caption webpage="product" alt=""/>
@@ -97,9 +99,38 @@
     <file name="worshar_2x.gif" crc="4059724451" seo="true" ref="product">
       <caption webpage="product" alt=""/>
     </file>
+    <file name="pasted image 988x327.png" crc="112725723" seo="true" ref="usage:r.q">
+      <caption webpage="usage" alt=""/>
+      <caption webpage="r.q" alt=""/>
+    </file>
+    <file name="pasted image 988x327_2x.png" crc="360593888" seo="true" ref="usage:r.q">
+      <caption webpage="usage" alt=""/>
+      <caption webpage="r.q" alt=""/>
+    </file>
+    <file name="allochemistry -crop-u1412.png" crc="3890423180" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="allochemistry -crop-u1412_2x.png" crc="3780610364" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="salvia.png" crc="42565677" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="salvia_2x.png" crc="4288307540" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="ecological.png" crc="277129682" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="ecological_2x.png" crc="446061274" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="236528736" seo="true" mt="1545499266690" redirect="true"/>
-  <file name="product.html" crc="3804712507" seo="true" mt="1545507043462" redirect="true"/>
-  <file name="gallery.html" crc="4130640002" seo="true" mt="1545507872974" redirect="true"/>
-  <file name="research.html" crc="4131951769" seo="true" mt="1545503727485" redirect="true"/>
+  <file name="index.html" crc="321166760" seo="true" mt="1546202229499" redirect="true"/>
+  <file name="gallery.html" crc="4240713537" seo="true" mt="1546201476647" redirect="true"/>
+  <file name="research.html" crc="36976369" seo="true" mt="1546202236074" redirect="true"/>
+  <file name="product.html" crc="210193535" seo="true" mt="1545507043462" redirect="true"/>
+  <file name="usage.html" crc="4033597142" seo="true" mt="1546202912029" redirect="true"/>
+  <file name="r.q.html" crc="4168605655" seo="true" mt="1546203067133" redirect="true"/>
+  <file name="ecology.html" crc="506031612" seo="true" mt="1546204901239" redirect="true"/>
 </manifest>
