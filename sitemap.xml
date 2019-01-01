@@ -2,7 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://terpenoids.github.io/index.html</loc>
-    <lastmod>2018-12-30</lastmod>
+    <lastmod>2019-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/pasted%20image%20988x327.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://terpenoids.github.io/images/pasted%20image%20988x327_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://terpenoids.github.io/mission.html</loc>
+    <lastmod>2019-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -32,13 +44,13 @@
   </url>
   <url>
     <loc>http://terpenoids.github.io/gallery.html</loc>
-    <lastmod>2018-12-30</lastmod>
+    <lastmod>2019-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://terpenoids.github.io/research.html</loc>
-    <lastmod>2018-12-30</lastmod>
+    <loc>http://terpenoids.github.io/formula.html</loc>
+    <lastmod>2019-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -46,8 +58,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://terpenoids.github.io/product.html</loc>
-    <lastmod>2018-12-22</lastmod>
+    <loc>http://terpenoids.github.io/buy.html</loc>
+    <lastmod>2019-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -106,20 +118,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://terpenoids.github.io/usage.html</loc>
-    <lastmod>2018-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://terpenoids.github.io/images/pasted%20image%20988x327.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://terpenoids.github.io/images/pasted%20image%20988x327_2x.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://terpenoids.github.io/r.q.html</loc>
-    <lastmod>2018-12-30</lastmod>
+    <lastmod>2019-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -131,7 +131,7 @@
   </url>
   <url>
     <loc>http://terpenoids.github.io/ecology.html</loc>
-    <lastmod>2018-12-30</lastmod>
+    <lastmod>2019-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
