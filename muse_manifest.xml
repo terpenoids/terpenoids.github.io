@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="terpenoids.github.io" resolutions="1x,2x" timestamp="1546358223037">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="terpenoids.github.io" resolutions="1x" timestamp="1546557070090">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="508307791" ref="index"/>
-    <file name="gallery.css" crc="140336559" ref="gallery"/>
-    <file name="r_q.css" crc="205421256" ref="r.q"/>
-    <file name="buy.css" crc="123006395" ref="buy"/>
-    <file name="mission.css" crc="403808257" ref="mission"/>
-    <file name="ecology.css" crc="277741341" ref="ecology"/>
-    <file name="formula.css" crc="264402361" ref="formula"/>
+    <file name="index.css" crc="4136112547" ref="index"/>
+    <file name="gallery.css" crc="249988546" ref="gallery"/>
+    <file name="r_q.css" crc="473780302" ref="r.q"/>
+    <file name="buy.css" crc="423657069" ref="buy"/>
+    <file name="mission.css" crc="495401288" ref="mission"/>
+    <file name="ecology.css" crc="4234393669" ref="ecology"/>
+    <file name="formula.css" crc="532233052" ref="formula"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:mission:gallery:formula:buy:r.q:ecology"/>
@@ -27,13 +27,7 @@
     <file name="jingshenqi.gif" crc="4144968640" seo="true" ref="mission">
       <caption webpage="mission" alt=""/>
     </file>
-    <file name="jingshenqi_2x.gif" crc="4144968640" seo="true" ref="mission">
-      <caption webpage="mission" alt=""/>
-    </file>
     <file name="nigawaht.gif" crc="532282861" seo="true" ref="mission">
-      <caption webpage="mission" alt=""/>
-    </file>
-    <file name="nigawaht_2x.gif" crc="532282861" seo="true" ref="mission">
       <caption webpage="mission" alt=""/>
     </file>
     <file name="fruitman.gif" crc="404961146" seo="true" ref="mission">
@@ -48,37 +42,19 @@
     <file name="starwestlogo.gif" crc="73311957" seo="true" ref="buy">
       <caption webpage="buy" alt=""/>
     </file>
-    <file name="starwestlogo_2x.gif" crc="73311957" seo="true" ref="buy">
-      <caption webpage="buy" alt=""/>
-    </file>
     <file name="nature-soil.png" crc="396787994" seo="true" ref="buy">
-      <caption webpage="buy" alt=""/>
-    </file>
-    <file name="nature-soil_2x.png" crc="4039621027" seo="true" ref="buy">
       <caption webpage="buy" alt=""/>
     </file>
     <file name="fgorganiclogo-crop-u1103.png" crc="394348280" seo="true" ref="buy">
       <caption webpage="buy" alt=""/>
     </file>
-    <file name="fgorganiclogo-crop-u1103_2x.png" crc="4065120672" seo="true" ref="buy">
-      <caption webpage="buy" alt=""/>
-    </file>
     <file name="frlogo.jpg" crc="277812578" seo="true" ref="buy">
-      <caption webpage="buy" alt=""/>
-    </file>
-    <file name="frlogo_2x.jpg" crc="3945155496" seo="true" ref="buy">
       <caption webpage="buy" alt=""/>
     </file>
     <file name="og-crop-u1006.png" crc="29021184" seo="true" ref="buy">
       <caption webpage="buy" alt=""/>
     </file>
-    <file name="og-crop-u1006_2x.png" crc="3787242713" seo="true" ref="buy">
-      <caption webpage="buy" alt=""/>
-    </file>
     <file name="blackpepper-crop-u1042.png" crc="3803263147" seo="true" ref="buy">
-      <caption webpage="buy" alt=""/>
-    </file>
-    <file name="blackpepper-crop-u1042_2x.png" crc="383368575" seo="true" ref="buy">
       <caption webpage="buy" alt=""/>
     </file>
     <file name="lavender-crop-u1015.png" crc="3760665137" seo="true" ref="buy">
@@ -87,50 +63,55 @@
     <file name="sage.gif" crc="420095698" seo="true" ref="buy">
       <caption webpage="buy" alt=""/>
     </file>
-    <file name="sage_2x.gif" crc="420095698" seo="true" ref="buy">
-      <caption webpage="buy" alt=""/>
-    </file>
     <file name="peppermint.gif" crc="74329185" seo="true" ref="buy">
       <caption webpage="buy" alt=""/>
     </file>
     <file name="worshar.gif" crc="4059724451" seo="true" ref="buy">
       <caption webpage="buy" alt=""/>
     </file>
-    <file name="worshar_2x.gif" crc="4059724451" seo="true" ref="buy">
-      <caption webpage="buy" alt=""/>
-    </file>
     <file name="pasted image 988x327.png" crc="112725723" seo="true" ref="index:r.q">
-      <caption webpage="index" alt=""/>
-      <caption webpage="r.q" alt=""/>
-    </file>
-    <file name="pasted image 988x327_2x.png" crc="360593888" seo="true" ref="index:r.q">
       <caption webpage="index" alt=""/>
       <caption webpage="r.q" alt=""/>
     </file>
     <file name="allochemistry -crop-u1412.png" crc="3890423180" seo="true" ref="ecology">
       <caption webpage="ecology" alt=""/>
     </file>
-    <file name="allochemistry -crop-u1412_2x.png" crc="3780610364" seo="true" ref="ecology">
-      <caption webpage="ecology" alt=""/>
-    </file>
     <file name="salvia.png" crc="42565677" seo="true" ref="ecology">
-      <caption webpage="ecology" alt=""/>
-    </file>
-    <file name="salvia_2x.png" crc="4288307540" seo="true" ref="ecology">
       <caption webpage="ecology" alt=""/>
     </file>
     <file name="ecological.png" crc="277129682" seo="true" ref="ecology">
       <caption webpage="ecology" alt=""/>
     </file>
-    <file name="ecological_2x.png" crc="446061274" seo="true" ref="ecology">
+    <file name="cherrett7.png" crc="4157998748" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="pasted image 1600x900.png" crc="4255092051" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="silhouette-3087517.png" crc="3906814518" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="olf1.png" crc="3838874531" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="olf2.png" crc="3825572013" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="olf3.png" crc="4139216963" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="olf4.png" crc="4194935506" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="olf5.png" crc="394896314" seo="true" ref="ecology">
       <caption webpage="ecology" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4066047555" seo="true" mt="1546350529332" redirect="true"/>
-  <file name="mission.html" crc="4135096583" seo="true" mt="1546349456481" redirect="true"/>
-  <file name="gallery.html" crc="27738733" seo="true" mt="1546349407701" redirect="true"/>
-  <file name="formula.html" crc="4007559797" seo="true" mt="1546349273326" redirect="true"/>
-  <file name="buy.html" crc="3869485027" seo="true" mt="1546350339541" redirect="true"/>
-  <file name="r.q.html" crc="3821520197" seo="true" mt="1546349136744" redirect="true"/>
-  <file name="ecology.html" crc="4023560773" seo="true" mt="1546349337082" redirect="true"/>
+  <file name="index.html" crc="3852985893" seo="true" mt="1545491963728" redirect="true"/>
+  <file name="mission.html" crc="3898677859" seo="true" mt="1545491963728" redirect="true"/>
+  <file name="gallery.html" crc="4181995768" seo="true" mt="1546555157208" redirect="true"/>
+  <file name="formula.html" crc="154256804" seo="true" mt="1545491963728" redirect="true"/>
+  <file name="buy.html" crc="3890694268" seo="true" mt="1545491963728" redirect="true"/>
+  <file name="r.q.html" crc="4135026313" seo="true" mt="1545491963728" redirect="true"/>
+  <file name="ecology.html" crc="234355669" seo="true" mt="1546557041365" redirect="true"/>
 </manifest>
